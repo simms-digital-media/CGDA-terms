@@ -93,7 +93,7 @@
 <h2 id="productclaims">10. PRODUCT CLAIMS</h2>
 
 <p>CGDA&nbsp;and the  End-User acknowledge  that&nbsp;CGDA, and not the Services, is responsible for addressing any claims  of the End-User or any third party relating to the Licensed Application or the  End-User’s possession and/or use of that Licensed Application, including, but  not limited to: </p>
-<ol type="rom">
+<ol>
   <li>product liability claims; </li>
   <li>any claim that the Licensed Application fails to conform to any  applicable legal or regulatory requirement; and </li>
   <li>claims arising under consumer protection, privacy, or similar  legislation. </li>
