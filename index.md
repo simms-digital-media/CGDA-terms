@@ -10,22 +10,22 @@
 <h2>TABLE OF CONTENTS</h2>
 <ol>
   <li><a href="#application">THE APPLICATION</a></li>
-  <li><a href="#scope">2. SCOPE  OF LICENSE</a></li>
-  <li><a href="#requirements">3.  TECHNICAL REQUIREMENTS</a></li>
-  <li><a href="#nosupport">4. NO  MAINTENANCE AND SUPPORT</a></li>
-  <li><a href="#datause">5. USE  OF DATA</a></li>
-  <li><a href="#ugc">6.  USER-GENERATED CONTRIBUTIONS</a></li>
-  <li><a href="#contribution">7.  CONTRIBUTION LICENSE</a></li>
-  <li><a href="#liability">8.  LIABILITY</a></li>
-  <li><a href="#warranty">9. WARRANTY</a></li>
-  <li><a href="#productclaims">10.  PRODUCT CLAIMS</a></li>
-  <li><a href="#compliance">11.  LEGAL COMPLIANCE</a></li>
-  <li><a href="#contact">12.  CONTACT INFORMATION</a></li>
-  <li><a href="#termination">13.  TERMINATION</a></li>
-  <li><a href="#thirdparty">14.  THIRD-PARTY TERMS OF AGREEMENTS AND BENEFICIARY</a></li>
-  <li><a href="#ipr">15.  INTELLECTUAL PROPERTY RIGHTS</a></li>
-  <li><a href="#law">16.  APPLICABLE LAW</a></li>
-  <li><a href="#misc">17.  MISCELLANEOUS</a></li>
+  <li><a href="#scope">SCOPE  OF LICENSE</a></li>
+  <li><a href="#requirements">TECHNICAL REQUIREMENTS</a></li>
+  <li><a href="#nosupport">NO  MAINTENANCE AND SUPPORT</a></li>
+  <li><a href="#datause">USE  OF DATA</a></li>
+  <li><a href="#ugc">USER-GENERATED CONTRIBUTIONS</a></li>
+  <li><a href="#contribution">CONTRIBUTION LICENSE</a></li>
+  <li><a href="#liability">LIABILITY</a></li>
+  <li><a href="#warranty">WARRANTY</a></li>
+  <li><a href="#productclaims">PRODUCT CLAIMS</a></li>
+  <li><a href="#compliance">LEGAL COMPLIANCE</a></li>
+  <li><a href="#contact">CONTACT INFORMATION</a></li>
+  <li><a href="#termination">TERMINATION</a></li>
+  <li><a href="#thirdparty">THIRD-PARTY TERMS OF AGREEMENTS AND BENEFICIARY</a></li>
+  <li><a href="#ipr">INTELLECTUAL PROPERTY RIGHTS</a></li>
+  <li><a href="#law">APPLICABLE LAW</a></li>
+  <li><a href="#misc">MISCELLANEOUS</a></li>
 </ol>
 
 <h2 id="application">1.&nbsp;THE APPLICATION</h2>
