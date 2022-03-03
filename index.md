@@ -30,7 +30,7 @@
 
 <h3 id="application">1.&nbsp;THE APPLICATION</h3>
 <p>CGDA&nbsp;(&quot;<strong>Licensed  Application</strong>&quot;) is a piece  of software created to&nbsp;facilitate song writing and spark creativity&nbsp;—  and customized for&nbsp;Android&nbsp;mobile devices (&quot;<strong>Devices</strong>&quot;). It is used to&nbsp;view the  chords in each musical key as well as common major and minor chord  progressions. </p>
-<p>Furthermore, it is used  to&nbsp;provide inspiration by generating a random chord progression..</p>
+<p>Furthermore, it is used  to&nbsp;provide inspiration by generating a random chord progression.</p>
 <p>The Licensed  Application is not tailored to comply with industry-specific regulations  (Health Insurance Portability and Accountability Act (HIPAA), Federal  Information Security Management Act (FISMA), etc.), so if your interactions  would be subjected to such laws, you may not use this Licensed Application. You  may not use the Licensed Application in a way that would violate the  Gramm-Leach-Bliley Act (GLBA). </p>
 
 <h3 id="scope">2. SCOPE OF LICENSE</h3>
