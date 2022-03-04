@@ -50,7 +50,7 @@
 <p>4.2  &nbsp;CGDA&nbsp;and the End-User acknowledge that the Services have no  obligation whatsoever to furnish any maintenance and support services with  respect to the Licensed Application. </p>
 
 <h3 id="datause">5. USE OF DATA</h3>
-<p>You acknowledge  that Licensor will be able to access and adjust Your downloaded Licensed  Application content and Your personal information, and that Licensor's use of  such material and information is subject to Your legal  id="nosupport"agreements with Licensor  and Licensor's privacy policy:&nbsp;https://tyhsimms.github.io/CGDA-privacy-policy/.</p>
+<p>You acknowledge  that Licensor will be able to access and adjust Your downloaded Licensed  Application content and Your personal information, and that Licensor's use of  such material and information is subject to Your legal  id="nosupport"agreements with Licensor  and Licensor's privacy policy:&nbsp;https://simms-digital-media.github.io/CGDA-privacy-policy/.</p>
 <p>You acknowledge  that the Licensor may periodically collect and use technical data and related  information about your device, system, and application software, and  peripherals, offer product support, facilitate the software updates, and for  purposes of providing other services to you (if any) related to the Licensed  Application. Licensor may also use this information to improve its products or  to provide services or technologies to you, as long as it is in a form that  does not personally identify you. </p>
 
 <h3 id="ugc">6. USER-GENERATED CONTRIBUTIONS</h3>
